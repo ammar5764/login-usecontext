@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+    list-style-type: none;
+  
+    li{
+        margin: 15px;
+       a{
+        text-decoration: none;
+        font-size: 18px;
+        text-transform: uppercase;
+       }
+    }
+}
